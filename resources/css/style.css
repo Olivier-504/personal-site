@@ -1,3 +1,14 @@
-.jumbotron-fluid  {
+
+.navi  {
+  background-image: linear-gradient(-90deg, #5792BE, white);
+}
+
+.welcome  {
+  background-image: url(/Users/Olivier/Desktop/Projects/Websites/personal_site/resources/photos/IMG_3594.jpg);
+  min-height: 700px;
+  background-size: 100% 100%;
+}
+
+.secondary  {
   background-image: url(/Users/Olivier/Desktop/Projects/Websites/personal_site/resources/photos/IMG_3157.jpg);
 }
